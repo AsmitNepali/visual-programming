@@ -1,0 +1,15 @@
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/bin/Debug/net6.0/Variables
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/bin/Debug/net6.0/Variables.deps.json
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/bin/Debug/net6.0/Variables.runtimeconfig.json
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/bin/Debug/net6.0/Variables.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/bin/Debug/net6.0/Variables.pdb
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/obj/Debug/net6.0/Variables.csproj.AssemblyReference.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/obj/Debug/net6.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/obj/Debug/net6.0/Variables.AssemblyInfoInputs.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/obj/Debug/net6.0/Variables.AssemblyInfo.cs
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/obj/Debug/net6.0/Variables.csproj.CoreCompileInputs.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/obj/Debug/net6.0/Variables.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/obj/Debug/net6.0/refint/Variables.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/obj/Debug/net6.0/Variables.pdb
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/obj/Debug/net6.0/Variables.genruntimeconfig.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/Variables/Variables/obj/Debug/net6.0/ref/Variables.dll

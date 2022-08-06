@@ -1,0 +1,15 @@
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/obj/Debug/net6.0/BasicStructure.csproj.AssemblyReference.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/obj/Debug/net6.0/BasicStructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/obj/Debug/net6.0/BasicStructure.AssemblyInfoInputs.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/obj/Debug/net6.0/BasicStructure.AssemblyInfo.cs
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/obj/Debug/net6.0/BasicStructure.csproj.CoreCompileInputs.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/bin/Debug/net6.0/BasicStructure
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/bin/Debug/net6.0/BasicStructure.deps.json
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/bin/Debug/net6.0/BasicStructure.runtimeconfig.json
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/bin/Debug/net6.0/BasicStructure.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/bin/Debug/net6.0/BasicStructure.pdb
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/obj/Debug/net6.0/BasicStructure.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/obj/Debug/net6.0/refint/BasicStructure.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/obj/Debug/net6.0/BasicStructure.pdb
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/obj/Debug/net6.0/BasicStructure.genruntimeconfig.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/tutorial/BasicStructure/BasicStructure/obj/Debug/net6.0/ref/BasicStructure.dll
