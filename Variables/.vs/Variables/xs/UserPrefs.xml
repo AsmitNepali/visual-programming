@@ -3,9 +3,10 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Variables/Program.cs">
     <Files>
-      <File FileName="Variables/Program.cs" Line="7" Column="35" />
+      <File FileName="Variables/Program.cs" Line="9" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,5 +23,4 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Variables PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
