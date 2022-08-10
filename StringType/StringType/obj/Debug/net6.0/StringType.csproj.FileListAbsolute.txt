@@ -1,0 +1,15 @@
+/Users/asmitnepali/Projects/StringType/StringType/bin/Debug/net6.0/StringType
+/Users/asmitnepali/Projects/StringType/StringType/bin/Debug/net6.0/StringType.deps.json
+/Users/asmitnepali/Projects/StringType/StringType/bin/Debug/net6.0/StringType.runtimeconfig.json
+/Users/asmitnepali/Projects/StringType/StringType/bin/Debug/net6.0/StringType.dll
+/Users/asmitnepali/Projects/StringType/StringType/bin/Debug/net6.0/StringType.pdb
+/Users/asmitnepali/Projects/StringType/StringType/obj/Debug/net6.0/StringType.csproj.AssemblyReference.cache
+/Users/asmitnepali/Projects/StringType/StringType/obj/Debug/net6.0/StringType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asmitnepali/Projects/StringType/StringType/obj/Debug/net6.0/StringType.AssemblyInfoInputs.cache
+/Users/asmitnepali/Projects/StringType/StringType/obj/Debug/net6.0/StringType.AssemblyInfo.cs
+/Users/asmitnepali/Projects/StringType/StringType/obj/Debug/net6.0/StringType.csproj.CoreCompileInputs.cache
+/Users/asmitnepali/Projects/StringType/StringType/obj/Debug/net6.0/StringType.dll
+/Users/asmitnepali/Projects/StringType/StringType/obj/Debug/net6.0/refint/StringType.dll
+/Users/asmitnepali/Projects/StringType/StringType/obj/Debug/net6.0/StringType.pdb
+/Users/asmitnepali/Projects/StringType/StringType/obj/Debug/net6.0/StringType.genruntimeconfig.cache
+/Users/asmitnepali/Projects/StringType/StringType/obj/Debug/net6.0/ref/StringType.dll
