@@ -1,0 +1,15 @@
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/bin/Debug/net6.0/TypeConversion
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/bin/Debug/net6.0/TypeConversion.deps.json
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/bin/Debug/net6.0/TypeConversion.runtimeconfig.json
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/bin/Debug/net6.0/TypeConversion.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/bin/Debug/net6.0/TypeConversion.pdb
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/obj/Debug/net6.0/TypeConversion.csproj.AssemblyReference.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/obj/Debug/net6.0/TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/obj/Debug/net6.0/TypeConversion.AssemblyInfoInputs.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/obj/Debug/net6.0/TypeConversion.AssemblyInfo.cs
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/obj/Debug/net6.0/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/obj/Debug/net6.0/TypeConversion.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/obj/Debug/net6.0/refint/TypeConversion.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/obj/Debug/net6.0/TypeConversion.pdb
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/obj/Debug/net6.0/TypeConversion.genruntimeconfig.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/TypeConversion/TypeConversion/obj/Debug/net6.0/ref/TypeConversion.dll

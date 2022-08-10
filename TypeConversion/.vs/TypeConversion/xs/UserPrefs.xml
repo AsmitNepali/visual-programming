@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7BAF5493-2457-446E-9BF7-429A384AD32E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TypeConversion/TypeConversion.cs">
+    <Files>
+      <File FileName="TypeConversion/TypeConversion.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TypeConversion" expanded="True">
+            <Node name="TypeConversion" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TypeConversion PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
