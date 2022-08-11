@@ -182,4 +182,51 @@ If you omit the ```using System line```, you would have to write ```System.Conso
 
 > *__Note:__ Unlike Java, the name of the C# file does not have to match the class name, but they often do (for better organization). When saving the file, save it using a proper name and add ".cs" to the end of the filename. To run the example above on your computer, make sure that C# is properly installed: Go to the Get Started Chapter for how to install C#. The output should be:*
 
+### Variables:
+A variable is nothing but a name given to a storage area that our programs can manipulate. Each variable in C# has a specific type, which determines the size and layout of the variable's memory the range of values that can be stored within that memory and the set of operations that can be applied to the variable.
 
+
+The basic value types provided in C# can be categorized as:
+
+| Type                 | Example                                                      |
+|----------------------|--------------------------------------------------------------|
+| Integral types       | sbyte, byte, short, ushort, int, uint, long, ulong, and char |
+| Floating point types | float and double                                             |
+| Decimal types        | decimal                                                      |
+| Boolean types        | true or false values, as assigned                            |
+| Nullable types       | Nullable data types                                          |
+
+C# also allows defining other value types of variable such as enum and reference types of variables such as class, which we will cover in subsequent chapters.
+
+### Defining Variables:
+__Syntax for variable definition in C# is:__
+
+```<data_type> <variable_list>;```
+
+Here, data_type must be a valid C# data type including char, int, float, double, or any user-defined data type, and variable_list may consist of one or more identifier names separated by commas.
+
+__Some valid variable definitions are shown here:__
+```
+    int i, j, k;
+    char c, ch;
+    float f, salary;
+    double d;
+```
+
+### Initializing Variables:
+
+Variables are initialized (assigned a value) with an equal sign followed by a constant expression. <br> __The general form of initialization is:__
+
+```variable_name = value;```
+
+Variables can be initialized in their declaration.  The initializer consists of an equal sign followed by a constant expression as −
+
+```<data_type> <variable_name> = value;```
+
+__Some examples are__
+```
+    int d = 3, f = 5;    /* initializing d and f. */
+    byte z = 22;         /* initializes z. */
+    double pi = 3.14159; /* declares an approximation of pi. */
+    char x = 'x';        /* the variable x has the value 'x'. */ 
+```
