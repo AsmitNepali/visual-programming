@@ -1,0 +1,15 @@
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/bin/Debug/net6.0/ConditionalStatement
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/bin/Debug/net6.0/ConditionalStatement.deps.json
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/bin/Debug/net6.0/ConditionalStatement.runtimeconfig.json
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/bin/Debug/net6.0/ConditionalStatement.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/bin/Debug/net6.0/ConditionalStatement.pdb
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/obj/Debug/net6.0/ConditionalStatement.csproj.AssemblyReference.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/obj/Debug/net6.0/ConditionalStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/obj/Debug/net6.0/ConditionalStatement.AssemblyInfoInputs.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/obj/Debug/net6.0/ConditionalStatement.AssemblyInfo.cs
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/obj/Debug/net6.0/ConditionalStatement.csproj.CoreCompileInputs.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/obj/Debug/net6.0/ConditionalStatement.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/obj/Debug/net6.0/refint/ConditionalStatement.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/obj/Debug/net6.0/ConditionalStatement.pdb
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/obj/Debug/net6.0/ConditionalStatement.genruntimeconfig.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/obj/Debug/net6.0/ref/ConditionalStatement.dll

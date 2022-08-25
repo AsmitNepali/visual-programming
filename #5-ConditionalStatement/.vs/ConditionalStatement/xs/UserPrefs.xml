@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{894E5ADC-81E1-4275-B99A-C2CCE0D102A3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConditionalStatement/Program.cs">
+    <Files>
+      <File FileName="ConditionalStatement/Program.cs" Line="33" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConditionalStatement" expanded="True">
+            <Node name="ConditionalStatement" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConditionalStatement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/ConditionalStatement/ConditionalStatement/Program.cs" relfile="ConditionalStatement/Program.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

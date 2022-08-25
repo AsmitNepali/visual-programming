@@ -1,0 +1,15 @@
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/bin/Debug/net6.0/SwitchCase
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/bin/Debug/net6.0/SwitchCase.deps.json
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/bin/Debug/net6.0/SwitchCase.runtimeconfig.json
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/bin/Debug/net6.0/SwitchCase.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/bin/Debug/net6.0/SwitchCase.pdb
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/obj/Debug/net6.0/SwitchCase.csproj.AssemblyReference.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/obj/Debug/net6.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/obj/Debug/net6.0/SwitchCase.AssemblyInfoInputs.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/obj/Debug/net6.0/SwitchCase.AssemblyInfo.cs
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/obj/Debug/net6.0/SwitchCase.csproj.CoreCompileInputs.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/obj/Debug/net6.0/SwitchCase.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/obj/Debug/net6.0/refint/SwitchCase.dll
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/obj/Debug/net6.0/SwitchCase.pdb
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/obj/Debug/net6.0/SwitchCase.genruntimeconfig.cache
+/Users/asmitnepali/Documents/Personal Documents/BRSS/class-12/VP/visual-programming/SwitchCase/SwitchCase/obj/Debug/net6.0/ref/SwitchCase.dll
