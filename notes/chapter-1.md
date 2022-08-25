@@ -230,3 +230,63 @@ __Some examples are__
     double pi = 3.14159; /* declares an approximation of pi. */
     char x = 'x';        /* the variable x has the value 'x'. */ 
 ```
+### C# Identifiers:
+Identifiers are the name given to entities such as variables, methods, classes, etc.
+They are tokens in a program which uniquely identify an element. For example,
+
+``` int value; ```
+
+Here, value is the name of variable. Hence it is an identifier. Reserved keywords can not 
+be used as identifiers unless ``` @``` is added as prefix example ``` @if``` is valid Identifier but ``` if ``` is not
+valid identifier because it is a keyword,
+``` int break;```
+
+This statement will generate an error in compile time.
+
+#### Rules for Naming an Identifier
+* An identifier can not be a C# keyword.
+* An identifier must begin with a letter, an underscore or ```@``` symbol. The remaining part of identifier can contain letters, digits and underscore symbol.
+* Whitespaces are not allowed. Neither it can have symbols other than letter, digits and underscore.
+* Identifiers are case-sensitive. So, ```getName```, ```GetName and``` ```getname``` represents 3 different identifiers.
+
+Here are some of the valid and invalid identifiers:
+
+| Identifier     | Remarks                       |
+|----------------|-------------------------------|
+| number         | valid                         |
+| calculateMarks | Valid                         |
+| hello$         | Invalid (Contains $)          |
+| name1          | valid                         |
+| @if            | Valid (Keyword with prefix @) |
+| if             | Invalid (C# keyword)          |
+| my_name        | Valid                         |
+| My Name        | Invalid (Contains whitespace) |
+| _hello_hi      | Valid                         |
+| my@name        | Invalid                       |
+| my-name        | Invalid                       |
+
+#### Example:
+```
+    using System;
+    
+    namespace HelloWorld
+    {
+        class Hello
+    {         
+            static void Main(string[] args)
+            {
+              Console.WriteLine("Hello World!");
+            }
+        }
+    }
+```
+
+| Keywords  | Identifiers            |
+|-----------|------------------------|
+| using     | System                 |
+| namespace | HelloWorld (namespace) |
+| class     | Hello (Class)          |
+| static    | Main (Method0          |
+| void      | args                   |
+| string    | Console                |
+|           | WriteLine              |
