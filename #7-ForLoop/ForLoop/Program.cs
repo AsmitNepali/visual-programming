@@ -16,7 +16,7 @@ namespace ForLoop
             }
 
 
-            Console.WriteLine("\n\n\n\n\n");
+
 
 
             for(int i = 0; i <= 4; i++)
