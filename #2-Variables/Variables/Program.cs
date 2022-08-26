@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Varibles;
+namespace Varibles{
 
 class Program
 {
@@ -28,4 +28,5 @@ class Program
 
 
     }
+}
 }
