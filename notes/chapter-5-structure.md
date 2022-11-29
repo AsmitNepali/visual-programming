@@ -37,15 +37,26 @@ public struct User
 
 ### C# Structure Initialization:
 In c#, structures can be instantiated with or without ```new```keyword. Following is the example of assigning values to the variables of structure.
-
-### C# Structure with Constructor:
-In c#, the structures won’t allow us to declare a default constructor or a construct o rwithout parameters. It won’t allow us to initialize fields with values unless they are declared as ```const``` or ```static```.
-Following is the example of defining a structure with parameterized constructor and initializing the constructor fields in the c# programming language.
 ```
 User u = new User();
 u.name = "Suresh Dasari";
 u.location = "Hyderabad";
-u.age = 32;  
+u.age = 32; 
+```
+### C# Structure with Constructor:
+In c#, the structures won’t allow us to declare a default constructor or a construct o rwithout parameters. It won’t allow us to initialize fields with values unless they are declared as ```const``` or ```static```.
+Following is the example of defining a structure with parameterized constructor and initializing the constructor fields in the c# programming language.
+```
+public struct User
+{
+    public string name, location;
+    // Parameterized Constructor
+    public User(string a, string b)
+    {
+        name = a;
+        location = b;
+    }
+} 
 ```
 ### Source Code:
 Here is a example:
@@ -115,3 +126,14 @@ class Student {
 - When you create a struct object using the New operator, it gets created and the appropriate constructor is called. Unlike classes, structs can be instantiated without using the New operator.
 - f the New operator is not used, the fields remain unassigned and the object cannot be used until all the fields are initialized.
 - In c#, the structures won’t allow us to declare a ```default constructor``` or a ```constructor``` without parameters.It won’t allow us to initialize fields with values unless they are declared as ```const``` or ```static```.
+
+### Structure Vs Class:
+| Structure                                                                          | Class                                                                              |
+|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Classes are of reference types.                                                    | Structs are of value types.                                                        |
+| All the reference types are allocated on heap memory.                              | All the value types are allocated on stack memory.                                 |
+| Allocation of large reference type is cheaper than allocation of large value type. | Allocation of large reference type is cheaper than allocation of large value type. |
+| Class has limitless features.                                                      | Struct has limited features.                                                       |
+| Class is generally used in large programs.                                         | Struct are used in small programs.                                                 |
+| Classes used new keyword for creating instances.                                   | Struct can create an instance, with or without new keyword.                        |
+| Can't have default constructor.                                                    | Can have default constructor.                                                      |
