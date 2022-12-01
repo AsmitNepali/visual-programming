@@ -124,7 +124,7 @@ class Student {
 - A structure can implement one or more interfaces.
 - Structure members cannot be specified as abstract, virtual, or protected.
 - When you create a struct object using the New operator, it gets created and the appropriate constructor is called. Unlike classes, structs can be instantiated without using the New operator.
-- f the New operator is not used, the fields remain unassigned and the object cannot be used until all the fields are initialized.
+- If the New operator is not used, the fields remain unassigned and the object cannot be used until all the fields are initialized.
 - In c#, the structures won’t allow us to declare a ```default constructor``` or a ```constructor``` without parameters.It won’t allow us to initialize fields with values unless they are declared as ```const``` or ```static```.
 
 ### Structure Vs Class:
