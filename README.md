@@ -1,6 +1,35 @@
-# Class-12 Engineering
 ## Visual Programming
-### C-Sharp(C#)
+### Installation Guide For Linux .Net
 
-#### Introduction to C# .NET
-C# is a general-purpose, modern and object-oriented programming language pronounced as “C sharp”. It was developed by Microsoft led by Anders Hejlsberg and his team within the .Net initiative and was approved by the European Computer Manufacturers Association (ECMA) and International Standards Organization (ISO). C# is among the languages for Common Language Infrastructure and the current version of C# is version 11. C# is a lot similar to Java syntactically and is easy for the users who have knowledge of C, C++ or Java.
+``
+wget https://packages.microsoft.com/config/ubuntu/22.10/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+``
+<br/>
+``
+sudo dpkg -i packages-microsoft-prod.deb
+<br/>
+``
+``
+rm packages-microsoft-prod.deb
+``
+#### Install the SDK
+``
+sudo apt-get update && \
+sudo apt-get install -y dotnet-sdk-7.0
+``
+
+#### Install the runtime
+``
+sudo apt-get update && \
+sudo apt-get install -y aspnetcore-runtime-7.0
+``
+#### Check donet version
+``
+dotnet --version
+``
+
+#### Create new console project
+
+``dotnet new console -o HelloWorld`` <br/>
+``cd HelloWorld`` <br/>
+``dotnet run``
