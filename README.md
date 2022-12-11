@@ -7,8 +7,8 @@ wget https://packages.microsoft.com/config/ubuntu/22.10/packages-microsoft-prod.
 <br/>
 ``
 sudo dpkg -i packages-microsoft-prod.deb
-<br/>
 ``
+<br/>
 ``
 rm packages-microsoft-prod.deb
 ``
@@ -32,4 +32,25 @@ dotnet --version
 
 ``dotnet new console -o HelloWorld`` <br/>
 ``cd HelloWorld`` <br/>
+
+#### Run the Project
 ``dotnet run``
+
+### Installation Guide For Mac .Net
+Download .net for mac form here
+[Download](https://dotnet.microsoft.com/en-us/download)
+
+After download install on your system then open terminal and check dotnet version.
+
+``donet --version``
+
+#### Create new console project
+
+``dotnet new console -o HelloWorld`` <br/>
+``cd HelloWorld`` <br/>
+
+#### Run the Project
+``dotnet run``
+
+
+
