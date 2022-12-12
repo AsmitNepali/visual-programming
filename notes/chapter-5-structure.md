@@ -44,7 +44,7 @@ u.location = "Hyderabad";
 u.age = 32; 
 ```
 ### C# Structure with Constructor:
-In c#, the structures won’t allow us to declare a default constructor or a construct o rwithout parameters. It won’t allow us to initialize fields with values unless they are declared as ```const``` or ```static```.
+In c#, the structures won’t allow us to declare a default constructor or a constructor without parameters. It won’t allow us to initialize fields with values unless they are declared as ```const``` or ```static```.
 Following is the example of defining a structure with parameterized constructor and initializing the constructor fields in the c# programming language.
 ```
 public struct User
@@ -124,11 +124,11 @@ class Student {
 - A structure can implement one or more interfaces.
 - Structure members cannot be specified as abstract, virtual, or protected.
 - When you create a struct object using the New operator, it gets created and the appropriate constructor is called. Unlike classes, structs can be instantiated without using the New operator.
-- f the New operator is not used, the fields remain unassigned and the object cannot be used until all the fields are initialized.
+- If the New operator is not used, the fields remain unassigned and the object cannot be used until all the fields are initialized.
 - In c#, the structures won’t allow us to declare a ```default constructor``` or a ```constructor``` without parameters.It won’t allow us to initialize fields with values unless they are declared as ```const``` or ```static```.
 
 ### Structure Vs Class:
-| Structure                                                                          | Class                                                                              |
+| Class                                                                              | Structure                                                                           |
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | Classes are of reference types.                                                    | Structs are of value types.                                                        |
 | All the reference types are allocated on heap memory.                              | All the value types are allocated on stack memory.                                 |
